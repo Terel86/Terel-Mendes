@@ -3,7 +3,7 @@ Designer Gráfico | Iniciando Programação | Front-End
 ##
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Terel86&show_icons=true&theme=vision-friendly-dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Terel86&show_icons=true&theme=great-gatsby"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -12,4 +12,5 @@ Designer Gráfico | Iniciando Programação | Front-End
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Terel86&show_icons=true" />
 </picture>
+
 ##
